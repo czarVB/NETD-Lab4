@@ -13,14 +13,3 @@ C:\Users\ebhcz\Downloads\College\NETD - Network Development\4. Example CustomerL
 C:\Users\ebhcz\Downloads\College\NETD - Network Development\4. Example CustomerList\CustomerList\CustomerList\obj\Debug\CustomerList.exe
 C:\Users\ebhcz\Downloads\College\NETD - Network Development\4. Example CustomerList\CustomerList\CustomerList\obj\Debug\CustomerList.xml
 C:\Users\ebhcz\Downloads\College\NETD - Network Development\4. Example CustomerList\CustomerList\CustomerList\obj\Debug\CustomerList.pdb
-C:\Users\ebhcz\Downloads\College\NETD - Network Development\GitHub\NETD-Lab4\CustomerList_1\CustomerList\bin\Debug\CustomerList.exe.config
-C:\Users\ebhcz\Downloads\College\NETD - Network Development\GitHub\NETD-Lab4\CustomerList_1\CustomerList\obj\Debug\CustomerList.exe
-C:\Users\ebhcz\Downloads\College\NETD - Network Development\GitHub\NETD-Lab4\CustomerList_1\CustomerList\obj\Debug\CustomerList.xml
-C:\Users\ebhcz\Downloads\College\NETD - Network Development\GitHub\NETD-Lab4\CustomerList_1\CustomerList\obj\Debug\CustomerList.pdb
-C:\Users\ebhcz\Downloads\College\NETD - Network Development\GitHub\NETD-Lab4\CustomerList_1\CustomerList\bin\Debug\CustomerList.exe
-C:\Users\ebhcz\Downloads\College\NETD - Network Development\GitHub\NETD-Lab4\CustomerList_1\CustomerList\bin\Debug\CustomerList.pdb
-C:\Users\ebhcz\Downloads\College\NETD - Network Development\GitHub\NETD-Lab4\CustomerList_1\CustomerList\bin\Debug\CustomerList.xml
-C:\Users\ebhcz\Downloads\College\NETD - Network Development\GitHub\NETD-Lab4\CustomerList_1\CustomerList\obj\Debug\CustomerList.vbprojResolveAssemblyReference.cache
-C:\Users\ebhcz\Downloads\College\NETD - Network Development\GitHub\NETD-Lab4\CustomerList_1\CustomerList\obj\Debug\CustomerList.frmCustomerList.resources
-C:\Users\ebhcz\Downloads\College\NETD - Network Development\GitHub\NETD-Lab4\CustomerList_1\CustomerList\obj\Debug\CustomerList.Resources.resources
-C:\Users\ebhcz\Downloads\College\NETD - Network Development\GitHub\NETD-Lab4\CustomerList_1\CustomerList\obj\Debug\CustomerList.vbproj.GenerateResource.Cache
